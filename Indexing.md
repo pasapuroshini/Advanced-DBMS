@@ -1,4 +1,4 @@
-**Indexing in Databases **
+ # Indexing in Databases 
 ==========================================================
 
 ### **1\. Why Do We Need Indexing?**
