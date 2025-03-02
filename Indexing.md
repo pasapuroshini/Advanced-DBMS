@@ -1,6 +1,29 @@
  # Indexing in Databases 
 ==========================================================
+## Implementing Indexes: Terminology
 
+* The field(s) on whose values the index is based is called as search key
+or key.
+
+ * There are many data structures that serve as indexes.
+
+* Consider a file in which the data available(i.e., records)(i.e., data file)
+
+* Consider another file consisting of <key, pointer> pairs (index file)
+
+* In index file, a search key K is associated with a pointer which is
+referring to a data file record that has search key K.
+
+* The indexes can be
+
+         Dense
+
+         Sparse
+
+
+
+
+  
 ### **1\. Why Do We Need Indexing?**
 
 Imagine you have a **huge book** and you want to find a specific topic.
