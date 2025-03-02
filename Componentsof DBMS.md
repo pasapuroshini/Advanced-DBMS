@@ -50,8 +50,9 @@
         
 10.  **Storage Manager:**
     
-    *   Handles **physical storage** of data in **disk storage**.
-        
+    *  
+  Handles **physical storage** of data in **disk storage**.
+      
 
 ### **Flow of Operations:**
 
