@@ -50,7 +50,7 @@
         
 10.  **Storage Manager:**
     
-    *  
+
   Handles **physical storage** of data in **disk storage**.
       
 
